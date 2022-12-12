@@ -751,6 +751,14 @@ let cards = [
     author: "Sabina Abbasova",
     githubLink: "https://github.com/sabina929",
   },
+
+   {
+    artName: 'animatron marcoman',
+    pageLink: './Art/animatron marcoman/index.html',
+    imageLink: './Art/animatron marcoman/trance.gif',
+    author: 'Marco',
+    githubLink: 'https://github.com/MarcoM0404/Animation-Nation.git'
+  },
   {
     artName: "NightSky",
     pageLink: "./Art/AndyS/index.html",
